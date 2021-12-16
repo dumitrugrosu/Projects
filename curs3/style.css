@@ -1,0 +1,21 @@
+div {
+    width: 500px;
+    border: 2px solid red;
+}
+div p {
+    width: 500px;
+    text-align: center;
+    color: rgb(202, 146, 255);
+    font-weight: bold;
+}
+div p {
+    width: 500px;
+    text-align: center;
+    color: rgb(202, 146, 255);
+    font-weight: bold;
+}
+body {
+    background-color: rgb(245, 227, 214);
+    text-align: center;
+    width: 500px;
+}
